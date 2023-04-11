@@ -1,6 +1,6 @@
 import React from "react";
 import "bootstrap/dist/css/bootstrap.min.css";
-import "./components/css/Common.css";
+import "./css/Common.css";
 import Register from "./components/authentication/Register";
 
 function App() {
